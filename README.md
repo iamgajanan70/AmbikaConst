@@ -44,6 +44,7 @@ Follow these steps to set up the project locally for development.
 - Node.js (v18 or higher recommended)
 - npm or yarn
 
+
 ### Installation
 
 1. **Navigate to the project directory:**
